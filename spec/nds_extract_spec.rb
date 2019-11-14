@@ -23,7 +23,6 @@ describe 'The directors_database method can be processed by the directors_totals
         "James Cameron"=>2571020373,
         "Spike Lee"=>256624217,
         "Wachowski Siblings"=>806180282,
-        "Robert Zemeckis"=>1273838385,
         "Quentin Tarantino"=>662738268,
         "Martin Scorsese"=>636812242,
         "Francis Ford Coppola"=>509719258
